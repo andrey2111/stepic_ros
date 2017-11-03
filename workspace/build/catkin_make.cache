@@ -1,0 +1,2 @@
+agents:client_server:concatsrv:my_message:my_service:talkers
+-DCATKIN_DEVEL_PREFIX=/home/andrey/stepik-ros/workspace/devel -DCMAKE_INSTALL_PREFIX=/home/andrey/stepik-ros/workspace/install -G Unix Makefiles
