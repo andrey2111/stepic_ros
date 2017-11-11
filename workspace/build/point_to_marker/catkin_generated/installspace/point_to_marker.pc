@@ -1,8 +1,0 @@
-prefix=/home/reptile/stepic_ros/workspace/install
-
-Name: point_to_marker
-Description: Description of point_to_marker
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/reptile/stepic_ros/workspace/install/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/reptile/stepic_ros/workspace/devel
-
-Name: tfconverter
-Description: Description of tfconverter
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/reptile/stepic_ros/workspace/devel/lib 
-Requires: 

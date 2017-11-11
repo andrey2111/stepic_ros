@@ -1,8 +1,0 @@
-prefix=/home/reptile/stepic_ros/workspace/install
-
-Name: rviz_manip
-Description: Description of rviz_manip
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/reptile/stepic_ros/workspace/install/lib 
-Requires: 
