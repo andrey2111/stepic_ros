@@ -1,8 +1,0 @@
-prefix=/home/andrey/stepik-ros/workspace/install
-
-Name: agents
-Description: Description of agents
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/andrey/stepik-ros/workspace/install/lib 
-Requires: 

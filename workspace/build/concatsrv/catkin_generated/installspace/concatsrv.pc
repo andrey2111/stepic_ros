@@ -1,8 +1,0 @@
-prefix=/home/andrey/stepik-ros/workspace/install
-
-Name: concatsrv
-Description: Description of concatsrv
-Version: 0.0.0
-Cflags: -I/home/andrey/stepik-ros/workspace/install/include
-Libs: -L/home/andrey/stepik-ros/workspace/install/lib 
-Requires: 

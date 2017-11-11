@@ -1,8 +1,0 @@
-prefix=/home/andrey/stepik-ros/workspace/install
-
-Name: talkers
-Description: Description of talkers
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/andrey/stepik-ros/workspace/install/lib 
-Requires: 

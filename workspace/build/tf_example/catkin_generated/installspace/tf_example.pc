@@ -1,0 +1,8 @@
+prefix=/home/reptile/stepic_ros/workspace/install
+
+Name: tf_example
+Description: Description of tf_example
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reptile/stepic_ros/workspace/install/lib 
+Requires: 
